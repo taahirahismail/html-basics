@@ -28,3 +28,53 @@ ul {
     list-style-type: none;
 }
 
+img {
+    width: 100%;
+}
+
+h3 {
+    font-size: 26px;
+    font-weight: 300;
+}
+
+h4 {
+    color: #00ed82;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.btn {
+    display: inline-block;
+    background: #fff;
+    color: #335;
+    min-width: 135px;
+    padding: 20px 32px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 14px;
+    border: none;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.btn-cta:hover {
+    opacity: 0.8
+}
+
+.btn-outline {
+    background: none;
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+.btn-outline:hover {
+    color: #fff;
+    border-color: #ccc;
+}
+
+.btn-dark {
+    background: #000;
+    color: #fff;
+}
