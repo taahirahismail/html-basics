@@ -78,3 +78,9 @@ h4 {
     background: #000;
     color: #fff;
 }
+
+.legal-text {
+    font-size: 10px;
+    color: #ccc;
+    margin-top: 20px;
+}
