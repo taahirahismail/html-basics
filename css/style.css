@@ -84,3 +84,36 @@ h4 {
     color: #ccc;
     margin-top: 20px;
 }
+
+.sub-link {
+    display: block;
+    color: #ccc;
+    font-size: 12px;
+    margin-top: 5px;
+    text-decoration: underline;
+}
+
+.text-xl {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.sub-text {
+    max-width: 850px;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+/* HEADER START */
+.header{
+    height:530px;
+    background: url(../images/header.jpg) no-repeat center center / cover;
+}
+
+.header nav {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px 40px;
+    z-index: 2;
+    position: relative;
+}
