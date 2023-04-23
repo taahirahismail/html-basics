@@ -109,3 +109,11 @@ h4 {
     height: 530px;
     background: url(../images/header.jpg) no-repeat center center / cover;
 }
+
+.header nav {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px 40px;
+    z-index: 2;
+    position: relative;
+}
