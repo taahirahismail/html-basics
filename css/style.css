@@ -78,3 +78,34 @@ h4 {
     background: #000;
     color: #fff;
 }
+
+.legal-text {
+    font-size: 10px;
+    color: #ccc;
+    margin-top: 20px;
+}
+
+.sub-link {
+    display: block;
+    color: #ccc;
+    font-size: 12px;
+    margin-top: 5px;
+    text-decoration: underline;
+}
+
+.text-xl {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.sub-text {
+    max-width: 850px;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+/* Header */
+.header {
+    height: 530px;
+    background: url(../images/header.jpg) no-repeat center center / cover;
+}
